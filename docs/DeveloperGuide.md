@@ -153,6 +153,14 @@ Classes used by multiple components are in the `expresslibrary.commons` package.
 
 This section describes some noteworthy details on how certain features are implemented.
 
+### Borrow/return feature
+
+#### Implementation
+
+The borrow and return feature will allow the user to track the list of books each person has borrowed.
+
+It will extend 
+
 ### \[Proposed\] Undo/redo feature
 
 #### Proposed Implementation
