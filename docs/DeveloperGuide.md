@@ -159,7 +159,12 @@ This section describes some noteworthy details on how certain features are imple
 
 The borrow and return feature will allow the user to track the list of books each person has borrowed.
 
-It will extend 
+It implements the following commands:
+
+* `borrow [person index] b\[book index]`
+* `return [index]`
+
+
 
 ### \[Proposed\] Undo/redo feature
 
